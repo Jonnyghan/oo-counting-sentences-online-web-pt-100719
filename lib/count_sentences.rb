@@ -19,4 +19,6 @@ class String
     array.length
     binding.pry
   end
+  
+  def
 end
